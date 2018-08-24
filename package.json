@@ -1,0 +1,12 @@
+{
+  "name": "linguathings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hughgrigg/linguathings.git",
+  "author": "Hugh Grigg <hugh.grigg@gmail.com>",
+  "license": "Proprietary",
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
